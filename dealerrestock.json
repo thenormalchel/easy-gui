@@ -1,0 +1,72 @@
+{
+  "last_updated": "2024-11-15T13:07:00Z",
+  "timezone": "Europe/Moscow",
+  "events": [
+    {
+      "time": "01:00:00",
+      "name": "Los Puggies",
+      "duration": 30,
+      "type": "restock"
+    },
+    {
+      "time": "03:00:00", 
+      "name": "Los Spaghettis",
+      "duration": 30,
+      "type": "restock"
+    },
+    {
+      "time": "03:30:00",
+      "name": "Pirulitoita Bicicleteira", 
+      "duration": 30,
+      "type": "restock"
+    },
+    {
+      "time": "02:00:00",
+      "name": "Fragrama and Chocrama",
+      "duration": 30,
+      "type": "restock"
+    },
+    {
+      "time": "07:30:00",
+      "name": "Los Spaghettis",
+      "duration": 30, 
+      "type": "restock"
+    },
+    {
+      "time": "08:30:00",
+      "name": "Pirulitoita Bicicleteira",
+      "duration": 30,
+      "type": "restock"
+    },
+    {
+      "time": "12:00:00",
+      "name": "Los Spaghettis",
+      "duration": 30,
+      "type": "restock"
+    },
+    {
+      "time": "18:30:00",
+      "name": "Fragrama and Chocrama",
+      "duration": 30,
+      "type": "restock"
+    },
+    {
+      "time": "21:30:00", 
+      "name": "Los Puggies",
+      "duration": 30,
+      "type": "restock"
+    },
+    {
+      "time": "21:30:00",
+      "name": "Los Spaghettis",
+      "duration": 30,
+      "type": "restock"
+    },
+    {
+      "time": "21:30:00",
+      "name": "Fragrama and Chocrama", 
+      "duration": 30,
+      "type": "restock"
+    }
+  ]
+}
